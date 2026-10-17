@@ -1,0 +1,11 @@
+.env
+npm_install_debug.log
+bstackPackages.tar.gz
+
+cypress/reports/
+cypress/screenshots/
+
+node_modules/
+log/
+results/
+tmpBstackPackages/

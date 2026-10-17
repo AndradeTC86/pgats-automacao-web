@@ -1,0 +1,32 @@
+{
+  "existingUser": {
+    "name": "Usuário de Teste",
+    "signupName": "Usuario de Teste",
+    "email": "usuario@teste.com",
+    "password": "123456"
+  },
+  "invalidUser": {
+    "email": "usuario@teste.com",
+    "password": "senha"
+  },
+  "newUser": {
+    "name": "Cliente de Teste",
+    "email": "cliente@teste.com",
+    "password": "Senh@123",
+    "birth": {
+      "day": "25",
+      "month": "July",
+      "year": "2006"
+    },
+    "firstName": "Cliente",
+    "lastName": "de Teste",
+    "company": "Company",
+    "address": "Address 01",
+    "address2": "Address 02",
+    "country": "Australia",
+    "state": "Queensland",
+    "city": "Brisbane",
+    "zipcode": "12000",
+    "mobileNumber": "0412 345 678"
+  }
+}
