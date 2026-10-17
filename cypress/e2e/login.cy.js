@@ -13,7 +13,7 @@ describe('Feature de Signup / Login', () => {
     const newUser = {
     ...testData.newUser,
     email: faker.internet.email()
-  }
+    }
     
     signupPage.startSignup(newUser)
     signupPage.completeSignup(newUser)

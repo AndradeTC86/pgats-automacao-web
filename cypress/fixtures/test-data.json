@@ -9,6 +9,14 @@
     "email": "usuario@teste.com",
     "password": "senha"
   },
+  "checkout": {
+    "comment": "Automação de Testes na Camada de Interface com o professor Samuel Lucas",
+    "payment": {
+      "cvc": "999",
+      "expiryMonth": "12",
+      "expiryYear": "2099"
+    }
+  },
   "newUser": {
     "name": "Cliente de Teste",
     "email": "cliente@teste.com",
